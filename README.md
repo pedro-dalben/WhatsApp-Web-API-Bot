@@ -156,15 +156,6 @@ whatsapp-web-api-bot/
 
 Este projeto é apenas para fins educacionais e de automação pessoal. Use com responsabilidade e respeite os Termos de Serviço do WhatsApp.
 
-## 📄 Licença
-
-Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
-
-## 🙋‍♂️ Suporte
-
-Se você encontrar algum problema ou tiver dúvidas, abra uma [issue](https://github.com/[seu-usuario]/whatsapp-web-api-bot/issues) no GitHub.
-
 ---
 
 ⭐ Se este projeto te ajudou, não esqueça de dar uma estrela!
-# WhatsApp-Web-API-Bot

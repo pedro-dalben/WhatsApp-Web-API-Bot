@@ -2,6 +2,8 @@
 
 Uma API REST simples e poderosa para enviar mensagens de texto e imagens via WhatsApp Web usando Python, Flask e Selenium.
 
+Esse sistema foi criado para enviar mensagens aos convidados do site: https://github.com/pedro-dalben/HappilyEverAfter
+
 ## ✨ Funcionalidades
 
 - 📱 Envio de mensagens de texto
